@@ -13,3 +13,4 @@
   window.WebchatPlugin = window.WebchatPlugin || {};
   window.WebchatPlugin.rating = { plugin: e };
 }();
+
